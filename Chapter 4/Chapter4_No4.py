@@ -11,7 +11,7 @@ waktutempuhBkeC = jarakBkeC/rataratakecepatanBkeC
 print("waktu tempuh adalah :", round(jarakBkeC//rataratakecepatanBkeC), "jam",
       round((jarakBkeC/rataratakecepatanBkeC-jarakBkeC//rataratakecepatanBkeC)*60), "Menit")
 
-# Total waktu A menuju C setelah ada istirahat 45 Menit di B
+# Jam Sampai di C setelah ada istirahat 45 Menit di B
 jamberangkat = int(input("Masukkan Jam berangkat = "))
 menitberangkat = int(input("Masukkan menit berangkat ="))
 menitberangkat = menitberangkat/60
